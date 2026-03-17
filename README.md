@@ -1,6 +1,6 @@
 # Flight Control Computer (FCC) — Sounding Rocket Project
 
-Projekt zaawansowanego komputera pokładowego (Flight Computer) zaprojektowanego do gromadzenia danych telemetrycznych podczas lotów rakiet modelarskich. System został zoptymalizowany pod kątem pracy w trudnych warunkach środowiskowych, takich jak wysokie wibracje i przeciążenia.
+Projekt  komputera pokładowego (Flight Computer) zaprojektowanego do gromadzenia danych telemetrycznych podczas lotów rakiet modelarskich.
 
 ## 🚀 Główne Cele Projektu
 * **Akwizycja danych:** Pomiar ciśnienia statycznego, temperatury oraz przyspieszenia liniowego w czasie rzeczywistym.
